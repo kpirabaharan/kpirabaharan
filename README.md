@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keeshigan
 - 👀 I’m interested in robotics and deep learning
-- 🌱 I’m currently learning deep learning
+- 🌱 I’m currently learning android development and machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
