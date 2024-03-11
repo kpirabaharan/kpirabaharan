@@ -23,4 +23,4 @@ I am a Associate Software Developer with experience in full-stack and embedded s
 
 ### Socials
 
-Click [here](./Keeshigan-Pirabaharan-Resume.pdf?raw=true){:target="_blank"} to check out my resume
+Click [here](./Keeshigan-Pirabaharan-Resume.pdf?raw=true) to download my updated resume.
