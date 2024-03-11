@@ -8,7 +8,7 @@ I am a Associate Software Developer with experience in full-stack and embedded s
 - 🖥️  See my portfolio at [www.keeshigan.com](http://keeshigan.com)
 - ✉️  You can contact me at [kpirabaharan3@gmail.com](mailto:kpirabaharan3@gmail.com)
 - 🚀  I'm currently working on [Twitch Clone](http://github.com/kpirabaharan/Twitch-Clone)
-- 🧠  I'm learning Android
+- 🧠  I'm learning Modern Android Development
 - 🤝  I'm open to collaborating on Full Stack Applications using React, Node, and cutting edge technologies.
 
 ### Skills
