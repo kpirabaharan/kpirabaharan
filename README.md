@@ -2,7 +2,7 @@
 
 ## Software Developer. Mechatronics Engineer.
 
-I am a Associate Software Developer with experience in full-stack and embedded systems. I have over 3 years of work experience creating code that has been deployed to customers.
+I am a Software Developer with experience in full-stack, embedded systems and robotics. I have over 3 years of work experience creating code that has been deployed to customers.
 
 - 🌍  I'm based in Toronto, ON
 - 🖥️  See my portfolio at [www.keeshigan.com](http://keeshigan.com)
