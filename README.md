@@ -7,7 +7,6 @@ I am a Software Developer with experience in full-stack, embedded systems and ro
 - 🌍  I'm based in Toronto, ON
 - 🖥️  See my portfolio at [www.keeshigan.com](http://keeshigan.com)
 - ✉️  You can contact me at [kpirabaharan3@gmail.com](mailto:kpirabaharan3@gmail.com)
-- 🚀  I'm currently working on [Medication Tracking App](https://github.com/Devanand-Sharma/medication-dispenser)
 - 🧠  I'm learning Natural Language Processing and Cloud Architecture
 - 🤝  I'm open to collaborating on Full Stack Applications using React, Node, and cutting edge technologies.
 
